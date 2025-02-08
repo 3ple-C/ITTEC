@@ -1,204 +1,4 @@
-<!doctype html>
-<html class="no-js" lang="en">
-
-<!-- Mirrored from themearth.com/demo/html/emeet/view/index.html by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 07 Feb 2025 16:01:34 GMT -->
-<head>
-    <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
-    <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
-    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no"/>
-    <!-- The above 3 meta tags *must* come first in the head -->
-
-    <!-- SITE TITLE -->
-    <title>Emeet</title>
-    <meta name="description" content="Responsive Emeet HTML Template"/>
-    <meta name="keywords" content="Bootstrap3, Event,  Conference, Meetup, Template, Responsive, HTML5"/>
-    <meta name="author" content="themearth.com"/>
-
-    <!-- twitter card starts from here, if you don't need remove this section -->
-    <meta name="twitter:card" content="summary"/>
-    <meta name="twitter:site" content="@yourtwitterusername"/>
-    <meta name="twitter:creator" content="@yourtwitterusername"/>
-    <meta name="twitter:url" content="http://yourdomain.com/"/>
-    <meta name="twitter:title" content="Your home page title, max 140 char"/>
-    <!-- maximum 140 char -->
-    <meta name="twitter:description" content="Your site description, maximum 140 char "/>
-    <!-- maximum 140 char -->
-    <meta name="twitter:image" content="assets/img/twittercardimg/twittercard-280-150.jpg"/>
-    <!-- when you post this page url in twitter , this image will be shown -->
-    <!-- twitter card ends from here -->
-
-    <!-- facebook open graph starts from here, if you don't need then delete open graph related  -->
-    <meta property="og:title" content="Your home page title"/>
-    <meta property="og:url" content="http://your domain here.com"/>
-    <meta property="og:locale" content="en_US"/>
-    <meta property="og:site_name" content="Your site name here"/>
-    <!--meta property="fb:admins" content="" /-->  <!-- use this if you have  -->
-    <meta property="og:type" content="website"/>
-    <meta property="og:image" content="assets/img/opengraph/fbphoto.jpg"/>
-    <!-- when you post this page url in facebook , this image will be shown -->
-    <!-- facebook open graph ends from here -->
-
-    <!--  FAVICON AND TOUCH ICONS -->
-    <link rel="shortcut icon" type="image/x-icon" href="assets/img/favicon.ico"/>
-    <!-- this icon shows in browser toolbar -->
-    <link rel="icon" type="image/x-icon" href="assets/img/favicon.ico"/>
-    <!-- this icon shows in browser toolbar -->
-    <link rel="apple-touch-icon" sizes="57x57" href="assets/img/favicon/apple-icon-57x57.png">
-    <link rel="apple-touch-icon" sizes="60x60" href="assets/img/favicon/apple-icon-60x60.png">
-    <link rel="apple-touch-icon" sizes="72x72" href="assets/img/favicon/apple-icon-72x72.png">
-    <link rel="apple-touch-icon" sizes="76x76" href="assets/img/favicon/apple-icon-76x76.png">
-    <link rel="apple-touch-icon" sizes="114x114" href="assets/img/favicon/apple-icon-114x114.png">
-    <link rel="apple-touch-icon" sizes="120x120" href="assets/img/favicon/apple-icon-120x120.png">
-    <link rel="apple-touch-icon" sizes="144x144" href="assets/img/favicon/apple-icon-144x144.png">
-    <link rel="apple-touch-icon" sizes="152x152" href="assets/img/favicon/apple-icon-152x152.png">
-    <link rel="apple-touch-icon" sizes="180x180" href="assets/img/favicon/apple-icon-180x180.png">
-    <link rel="icon" type="image/png" sizes="192x192" href="assets/img/favicon/android-icon-192x192.png">
-    <link rel="icon" type="image/png" sizes="32x32" href="assets/img/favicon/favicon-32x32.png">
-    <link rel="icon" type="image/png" sizes="96x96" href="assets/img/favicon/favicon-96x96.png">
-    <link rel="icon" type="image/png" sizes="16x16" href="assets/img/favicon/favicon-16x16.png">
-
-
-    <!-- BOOTSTRAP CSS -->
-    <link rel="stylesheet" href="assets/libs/bootstrap/css/bootstrap.min.css" media="all"/>
-
-    <!-- FONT AWESOME -->
-    <link rel="stylesheet" href="assets/libs/fontawesome/css/font-awesome.min.css" media="all"/>
-
-    <!-- FONT AWESOME -->
-    <link rel="stylesheet" href="assets/libs/maginificpopup/magnific-popup.css" media="all"/>
-
-    <!-- Time Circle -->
-    <link rel="stylesheet" href="assets/libs/timer/TimeCircles.css" media="all"/>
-
-    <!-- OWL CAROUSEL CSS -->
-    <link rel="stylesheet" href="assets/libs/owlcarousel/owl.carousel.min.css" media="all" />
-    <link rel="stylesheet" href="assets/libs/owlcarousel/owl.theme.default.min.css" media="all" />
-
-    <!-- GOOGLE FONT -->
-    <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Oswald:400,700%7cPoppins:300,400,400i,600,600i,700,800,900"/>
-
-    <!-- MASTER  STYLESHEET  -->
-    <link id="lgx-master-style" rel="stylesheet" href="assets/css/style-default.min.css" media="all"/>
-
-    <!-- MODERNIZER CSS  -->
-    <script src="assets/js/vendor/modernizr-2.8.3.min.js"></script>
-</head>
-
-<body class="home">
-
-<!--[if lt IE 8]>
-<p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade
-    your browser</a> to improve your experience.</p>
-<![endif]-->
-
-<div class="lgx-container ">
-<!-- ***  ADD YOUR SITE CONTENT HERE *** -->
-
-
-<!--HEADER-->
-<header>
-    <div id="lgx-header" class="lgx-header">
-        <div class="lgx-header-position lgx-header-position-white lgx-header-position-fixed "> <!--lgx-header-position-fixed lgx-header-position-white lgx-header-fixed-container lgx-header-fixed-container-gap lgx-header-position-white-->
-            <div class="lgx-container"> <!--lgx-container-fluid-->
-                <nav class="navbar navbar-default lgx-navbar">
-                    <div class="navbar-header">
-                        <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
-                            <span class="sr-only">Toggle navigation</span>
-                            <span class="icon-bar"></span>
-                            <span class="icon-bar"></span>
-                            <span class="icon-bar"></span>
-                        </button>
-                        <div class="lgx-logo">
-                            <a href="index.html" class="lgx-scroll">
-                                <img src="assets/img/logo.png" alt="Emeet Logo"/>
-                            </a>
-                        </div>
-                    </div>
-                    <div id="navbar" class="navbar-collapse collapse">
-                        <div class="lgx-nav-right navbar-right">
-                            <div class="lgx-cart-area">
-                                <a class="lgx-btn lgx-btn-red" href="#"><span>Buy Ticket</span></a>
-                            </div>
-                        </div>
-                        <ul class="nav navbar-nav lgx-nav navbar-right">
-                            <li>
-                                <a href="index.html" class="dropdown-toggle active" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Home <span class="caret"></span></a>
-                                <ul class="dropdown-menu multi-level">
-                                    <li><a href="index.html">Home (Default)</a></li>
-                                    <li><a href="index2.html">Box Layout</a></li>
-                                    <li><a href="index3.html">Home Parallax</a></li>
-                                    <li><a href="index4.html">Home Four</a></li>
-                                    <li><a href="index5.html">Home Typed</a></li>
-                                    <li><a href="index6.html">Home Six</a></li>
-                                    <li><a href="index7.html">Home Seven</a></li>
-                                    <li><a href="index8.html">Home Eight</a></li>
-                                    <li><a href="index9.html">Home Registration</a></li>
-                                    <li><a href="index10.html">Home Registration2</a></li>
-                                    <li><a href="index11.html">Home Eleven</a></li>
-                                    <li><a href="index12.html">Home Twelve</a></li>
-                                    <li><a href="index13.html">Home Slider</a></li>
-                                    <li><a href="index14.html">Home Slider2</a></li>
-                                    <li><a href="index15.html">Home Music</a></li>
-                                    <li><a href="index16.html">Home Sixteen</a></li>
-                                    <li><a href="index17.html">Home Christmas</a></li>
-                                    <li><a href="index18.html">Home Comingsoon</a></li>
-                                </ul>
-                            <li>
-                            <li>
-                                <a href="index.html" class="dropdown-toggle active" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Pages <span class="caret"></span></a>
-                                <ul class="dropdown-menu multi-level">
-                                    <li><a href="about.html">About</a></li>
-                                    <li><a href="schedules.html">Schedule</a></li>
-                                    <li class="dropdown-submenu">
-                                        <a href="#" class="dropdown-toggle active" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Speakers <span class="caret"></span></a>
-                                        <ul class="dropdown-menu">
-                                            <li><a href="speakers.html">Speakers List</a></li>
-                                            <li><a href="speaker.html">Speaker Single</a></li>
-                                        </ul>
-                                    </li>
-                                    <li><a href="sponsors.html">Sponsors List</a></li>
-                                    <li><a href="registration.html">Registration</a></li>
-                                    <li><a href="gallery.html">Photo Gallery</a></li>
-                                    <li><a href="contact.html">Contact</a></li>
-                                    <li class="dropdown-submenu">
-                                        <a href="#" class="dropdown-toggle active" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">News <span class="caret"></span></a>
-                                        <ul class="dropdown-menu">
-                                            <li><a href="news.html">News</a></li>
-                                            <li><a href="news-single.html">News Single</a></li>
-                                        </ul>
-                                    </li>
-                                    <li><a href="contact.html">Contact</a></li>
-                                    <li class="dropdown-submenu">
-                                        <a href="#" class="dropdown-toggle active" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Dropdown <span class="caret"></span></a>
-                                        <ul class="dropdown-menu">
-                                            <li class="dropdown-submenu">
-                                                <a href="#" class="dropdown-toggle active" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Dropdown Two<span class="caret"></span></a>
-                                                <ul class="dropdown-menu">
-                                                    <li><a href="#">Dropdown Three</a></li>
-                                                    <li><a href="#">Dropdown Three</a></li>
-                                                </ul>
-                                            </li>
-                                            <li><a href="#">Dropdown Two</a></li>
-                                            <li><a href="#">Dropdown Two</a></li>
-                                        </ul>
-                                    </li>
-                                </ul>
-                            </li>
-                            <li><a class="lgx-scroll" href="#lgx-speakers">Speaker</a></li>
-                            <li><a class="lgx-scroll" href="#lgx-schedule">Schedule</a></li>
-                            <li><a class="lgx-scroll" href="#lgx-sponsors">Sponsors</a></li>
-                            <li><a class="lgx-scroll" href="#lgx-news">News</a></li>
-                            <li><a class="lgx-scroll" href="contact.html">Contact</a></li>
-                        </ul>
-                    </div><!--/.nav-collapse -->
-                </nav>
-            </div>
-            <!-- //.CONTAINER -->
-        </div>
-    </div>
-</header>
-<!--HEADER END-->
-
+<?php include 'include/header.php' ?>
 
 <!--BANNER-->
 <section>
@@ -211,17 +11,18 @@
                             <div class="lgx-banner-info-area">
                                 <div class="lgx-banner-info-circle">
                                     <div class="info-circle-inner">
-                                        <h3 class="date"><b class="lgx-counter">29</b> <span>November</span></h3>
+                                        <h3 class="date"><b class="lgx-counter">13</b> <span>November</span></h3>
                                         <div class="lgx-countdown-area">
                                             <!-- Date Format :"Y/m/d" || For Example: 1017/10/5  -->
-                                            <div id="lgx-countdown" data-date="2021/12/15"></div>
+                                            <div id="lgx-countdown" data-date="2025/11/14"></div>
                                         </div>
                                     </div>
                                 </div>
                                 <div class="lgx-banner-info"> <!--lgx-banner-info-center lgx-banner-info-black lgx-banner-info-big lgx-banner-info-bg--> <!--banner-info-margin-->
-                                    <h3 class="subtitle">Learn Anything</h3>
-                                    <h2 class="title">Conference Meet <span><b>2</b><b>0</b><b>2</b><b>1</b></span></h2>
-                                    <h3 class="location"><i class="fa fa-map-marker"></i> 21 King Street, Dhaka, Bangladesh.</h3>
+                                    <h3 class="subtitle">Effective Training to</h3>
+                                    <h2 class="title"> Unlocking <span><b>Per</b><b>for</b><b>man</b><b>ce</b></span></h2>
+                                    <h3 class="location"><i class="fa fa-map-marker"></i> Lagos Oriental Hotel Victoria Island Lagos Nigeria.
+                                    </h3>
                                 </div>
                             </div>
                         </div>
@@ -296,7 +97,7 @@
                     <div class="col-xs-12 col-sm-6 col-md-4">
                         <div class="lgx-single-speaker"> <!--lgx-single-speaker-circle lgx-single-speaker2 lgx-single-speaker3-->
                             <figure>
-                                <a class="profile-img" href="speakers.html"><img src="assets/img/speakers/speaker1.jpg" alt="speaker"/></a>
+                                <a class="profile-img" href="speakers.html"><img src="assets/img/speakers/speaker1.jpg" alt="speaker" /></a>
                                 <figcaption>
                                     <div class="social-group">
                                         <a class="sp-tw" href="#"><i class="fa fa-twitter"></i></a>
@@ -315,7 +116,7 @@
                     <div class="col-xs-12 col-sm-6 col-md-4">
                         <div class="lgx-single-speaker"> <!--lgx-single-speaker-circle lgx-single-speaker2 lgx-single-speaker3-->
                             <figure>
-                                <a class="profile-img" href="speakers.html"><img src="assets/img/speakers/speaker2.jpg" alt="speaker"/></a>
+                                <a class="profile-img" href="speakers.html"><img src="assets/img/speakers/speaker2.jpg" alt="speaker" /></a>
                                 <figcaption>
                                     <div class="social-group">
                                         <a class="sp-tw" href="#"><i class="fa fa-twitter"></i></a>
@@ -334,7 +135,7 @@
                     <div class="col-xs-12 col-sm-6 col-md-4">
                         <div class="lgx-single-speaker"> <!--lgx-single-speaker-circle lgx-single-speaker2 lgx-single-speaker3-->
                             <figure>
-                                <a class="profile-img" href="speakers.html"><img src="assets/img/speakers/speaker3.jpg" alt="speaker"/></a>
+                                <a class="profile-img" href="speakers.html"><img src="assets/img/speakers/speaker3.jpg" alt="speaker" /></a>
                                 <figcaption>
                                     <div class="social-group">
                                         <a class="sp-tw" href="#"><i class="fa fa-twitter"></i></a>
@@ -353,7 +154,7 @@
                     <div class="col-xs-12 col-sm-6 col-md-4">
                         <div class="lgx-single-speaker"> <!--lgx-single-speaker-circle lgx-single-speaker2 lgx-single-speaker3-->
                             <figure>
-                                <a class="profile-img" href="speakers.html"><img src="assets/img/speakers/speaker4.jpg" alt="speaker"/></a>
+                                <a class="profile-img" href="speakers.html"><img src="assets/img/speakers/speaker4.jpg" alt="speaker" /></a>
                                 <figcaption>
                                     <div class="social-group">
                                         <a class="sp-tw" href="#"><i class="fa fa-twitter"></i></a>
@@ -372,7 +173,7 @@
                     <div class="col-xs-12 col-sm-6 col-md-4">
                         <div class="lgx-single-speaker"> <!--lgx-single-speaker-circle lgx-single-speaker2 lgx-single-speaker3-->
                             <figure>
-                                <a class="profile-img" href="speakers.html"><img src="assets/img/speakers/speaker5.jpg" alt="speaker"/></a>
+                                <a class="profile-img" href="speakers.html"><img src="assets/img/speakers/speaker5.jpg" alt="speaker" /></a>
                                 <figcaption>
                                     <div class="social-group">
                                         <a class="sp-tw" href="#"><i class="fa fa-twitter"></i></a>
@@ -391,7 +192,7 @@
                     <div class="col-xs-12 col-sm-6 col-md-4">
                         <div class="lgx-single-speaker"> <!--lgx-single-speaker-circle lgx-single-speaker2 lgx-single-speaker3-->
                             <figure>
-                                <a class="profile-img" href="speakers.html"><img src="assets/img/speakers/speaker6.jpg" alt="speaker"/></a>
+                                <a class="profile-img" href="speakers.html"><img src="assets/img/speakers/speaker6.jpg" alt="speaker" /></a>
                                 <figcaption>
                                     <div class="social-group">
                                         <a class="sp-tw" href="#"><i class="fa fa-twitter"></i></a>
@@ -421,10 +222,6 @@
 </section>
 <!--SPEAKERS END-->
 
-
-
-
-
 <!--SCHEDULE-->
 <section>
     <div id="lgx-schedule" class="lgx-schedule">
@@ -441,11 +238,23 @@
                 <div class="row">
                     <div class="col-xs-12">
                         <div class="lgx-tab lgx-tab2"> <!--lgx-tab2 lgx-tab-vertical-->
-                            <ul class="nav nav-pills lgx-nav lgx-nav-nogap lgx-nav-colorful">  <!--lgx-nav-nogap lgx-nav-colorful-->
-                                <li class="active"><a data-toggle="pill" href="#home"><h3>First <span>Day</span></h3> <p><span>29 </span>Nov, 2021</p></a></li>
-                                <li><a data-toggle="pill" href="#menu1"><h3>Second <span>Day</span></h3> <p><span>28 </span>Jul, 2021</p></a></li>
-                                <li><a data-toggle="pill" href="#menu2"><h3>Third <span>Day</span></h3> <p><span>29 </span>Nov, 2021</p></a></li>
-                                <li><a data-toggle="pill" href="#menu3"><h3>Fourth <span>Day</span></h3> <p><span>30 </span>Dec, 2021</p></a></li>
+                            <ul class="nav nav-pills lgx-nav lgx-nav-nogap lgx-nav-colorful"> <!--lgx-nav-nogap lgx-nav-colorful-->
+                                <li class="active"><a data-toggle="pill" href="#home">
+                                        <h3>First <span>Day</span></h3>
+                                        <p><span>29 </span>Nov, 2021</p>
+                                    </a></li>
+                                <li><a data-toggle="pill" href="#menu1">
+                                        <h3>Second <span>Day</span></h3>
+                                        <p><span>28 </span>Jul, 2021</p>
+                                    </a></li>
+                                <li><a data-toggle="pill" href="#menu2">
+                                        <h3>Third <span>Day</span></h3>
+                                        <p><span>29 </span>Nov, 2021</p>
+                                    </a></li>
+                                <li><a data-toggle="pill" href="#menu3">
+                                        <h3>Fourth <span>Day</span></h3>
+                                        <p><span>30 </span>Dec, 2021</p>
+                                    </a></li>
                             </ul>
                             <div class="tab-content lgx-tab-content">
 
@@ -459,7 +268,7 @@
                                                     <a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
                                                         <div class="lgx-single-schedule">
                                                             <div class="author">
-                                                                <img src="assets/img/schedule/speaker1.jpg" alt="Speaker"/>
+                                                                <img src="assets/img/schedule/speaker1.jpg" alt="Speaker" />
                                                             </div>
                                                             <div class="schedule-info">
                                                                 <h4 class="time">09:00 <span>Am</span> - 10.30 <span>Am</span></h4>
@@ -475,7 +284,7 @@
                                                     <p class="text">
                                                         Meh synth Schlitz, tempor duis single-origin coffee ea next level ethnic fingerstache fanny pack nostrud. Photo booth anim 8-bit hella, PBR 3 wolf moon beard Helvetica. Salvia esse flexitarian Truffaut synth art party deep v chillwave.
                                                     </p>
-                                                    <h4 class="location"><strong>Location:</strong>  Hall 1, Building A , Golden Street , <span>Southafrica</span> </h4>
+                                                    <h4 class="location"><strong>Location:</strong> Hall 1, Building A , Golden Street , <span>Southafrica</span> </h4>
                                                 </div>
                                             </div>
                                         </div>
@@ -485,7 +294,7 @@
                                                     <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseTwo" aria-expanded="true" aria-controls="collapseTwo">
                                                         <div class="lgx-single-schedule">
                                                             <div class="author">
-                                                                <img src="assets/img/schedule/speaker2.jpg" alt="Speaker"/>
+                                                                <img src="assets/img/schedule/speaker2.jpg" alt="Speaker" />
                                                             </div>
                                                             <div class="schedule-info">
                                                                 <h4 class="time">10:30 <span>Am</span> - 11.30 <span>Am</span></h4>
@@ -501,7 +310,7 @@
                                                     <p class="text">
                                                         Meh synth Schlitz, tempor duis single-origin coffee ea next level ethnic fingerstache fanny pack nostrud. Photo booth anim 8-bit hella, PBR 3 wolf moon beard Helvetica. Salvia esse flexitarian Truffaut synth art party deep v chillwave.
                                                     </p>
-                                                    <h4 class="location"><strong>Location:</strong>  Hall 1, Building A , Golden Street , <span>Southafrica</span> </h4>
+                                                    <h4 class="location"><strong>Location:</strong> Hall 1, Building A , Golden Street , <span>Southafrica</span> </h4>
                                                 </div>
                                             </div>
                                         </div>
@@ -511,10 +320,10 @@
                                                     <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseThree" aria-expanded="true" aria-controls="collapseThree">
                                                         <div class="lgx-single-schedule">
                                                             <div class="author author-multi">
-                                                                <img src="assets/img/schedule/speaker1.jpg" alt="Speaker"/>
-                                                                <img src="assets/img/schedule/speaker2.jpg" alt="Speaker"/>
-                                                                <img src="assets/img/schedule/speaker3.jpg" alt="Speaker"/>
-                                                                <img src="assets/img/schedule/speaker4.jpg" alt="Speaker"/>
+                                                                <img src="assets/img/schedule/speaker1.jpg" alt="Speaker" />
+                                                                <img src="assets/img/schedule/speaker2.jpg" alt="Speaker" />
+                                                                <img src="assets/img/schedule/speaker3.jpg" alt="Speaker" />
+                                                                <img src="assets/img/schedule/speaker4.jpg" alt="Speaker" />
                                                             </div>
                                                             <div class="schedule-info">
                                                                 <h4 class="time">11:30 <span>Am</span> - 01.30 <span>Pm</span></h4>
@@ -530,7 +339,7 @@
                                                     <p class="text">
                                                         Meh synth Schlitz, tempor duis single-origin coffee ea next level ethnic fingerstache fanny pack nostrud. Photo booth anim 8-bit hella, PBR 3 wolf moon beard Helvetica. Salvia esse flexitarian Truffaut synth art party deep v chillwave.
                                                     </p>
-                                                    <h4 class="location"><strong>Location:</strong>  Hall 1, Building A , Golden Street , <span>Southafrica</span> </h4>
+                                                    <h4 class="location"><strong>Location:</strong> Hall 1, Building A , Golden Street , <span>Southafrica</span> </h4>
                                                 </div>
                                             </div>
                                         </div>
@@ -540,7 +349,7 @@
                                                     <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapsefour" aria-expanded="true" aria-controls="collapsefour">
                                                         <div class="lgx-single-schedule">
                                                             <div class="author">
-                                                                <img src="assets/img/schedule/speaker4.jpg" alt="Speaker"/>
+                                                                <img src="assets/img/schedule/speaker4.jpg" alt="Speaker" />
                                                             </div>
                                                             <div class="schedule-info">
                                                                 <h4 class="time">02:00 <span>Am</span> - 03.30 <span>Pm</span></h4>
@@ -556,7 +365,7 @@
                                                     <p class="text">
                                                         Meh synth Schlitz, tempor duis single-origin coffee ea next level ethnic fingerstache fanny pack nostrud. Photo booth anim 8-bit hella, PBR 3 wolf moon beard Helvetica. Salvia esse flexitarian Truffaut synth art party deep v chillwave.
                                                     </p>
-                                                    <h4 class="location"><strong>Location:</strong>  Hall 1, Building A , Golden Street , <span>Southafrica</span> </h4>
+                                                    <h4 class="location"><strong>Location:</strong> Hall 1, Building A , Golden Street , <span>Southafrica</span> </h4>
                                                 </div>
                                             </div>
                                         </div>
@@ -566,7 +375,7 @@
                                                     <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapsefive" aria-expanded="true" aria-controls="collapsefive">
                                                         <div class="lgx-single-schedule">
                                                             <div class="author">
-                                                                <img src="assets/img/schedule/speaker5.jpg" alt="Speaker"/>
+                                                                <img src="assets/img/schedule/speaker5.jpg" alt="Speaker" />
                                                             </div>
                                                             <div class="schedule-info">
                                                                 <h4 class="time">03:45 <span>Am</span> - 04.00 <span>Pm</span></h4>
@@ -582,7 +391,7 @@
                                                     <p class="text">
                                                         Meh synth Schlitz, tempor duis single-origin coffee ea next level ethnic fingerstache fanny pack nostrud. Photo booth anim 8-bit hella, PBR 3 wolf moon beard Helvetica. Salvia esse flexitarian Truffaut synth art party deep v chillwave.
                                                     </p>
-                                                    <h4 class="location"><strong>Location:</strong>  Hall 1, Building A , Golden Street , <span>Southafrica</span> </h4>
+                                                    <h4 class="location"><strong>Location:</strong> Hall 1, Building A , Golden Street , <span>Southafrica</span> </h4>
                                                 </div>
                                             </div>
                                         </div>
@@ -600,9 +409,9 @@
                                                     <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion2" href="#collapseOne2" aria-expanded="true" aria-controls="collapseOne2">
                                                         <div class="lgx-single-schedule">
                                                             <div class="author author-multi">
-                                                                <img src="assets/img/schedule/speaker1.jpg" alt="Speaker"/>
-                                                                <img src="assets/img/schedule/speaker2.jpg" alt="Speaker"/>
-                                                                <img src="assets/img/schedule/speaker3.jpg" alt="Speaker"/>
+                                                                <img src="assets/img/schedule/speaker1.jpg" alt="Speaker" />
+                                                                <img src="assets/img/schedule/speaker2.jpg" alt="Speaker" />
+                                                                <img src="assets/img/schedule/speaker3.jpg" alt="Speaker" />
                                                             </div>
                                                             <div class="schedule-info">
                                                                 <h4 class="time">09:00 <span>Am</span> - 10.30 <span>Am</span></h4>
@@ -618,7 +427,7 @@
                                                     <p class="text">
                                                         Meh synth Schlitz, tempor duis single-origin coffee ea next level ethnic fingerstache fanny pack nostrud. Photo booth anim 8-bit hella, PBR 3 wolf moon beard Helvetica. Salvia esse flexitarian Truffaut synth art party deep v chillwave.
                                                     </p>
-                                                    <h4 class="location"><strong>Location:</strong>  Hall 1, Building A , Golden Street , <span>Southafrica</span> </h4>
+                                                    <h4 class="location"><strong>Location:</strong> Hall 1, Building A , Golden Street , <span>Southafrica</span> </h4>
                                                 </div>
                                             </div>
                                         </div>
@@ -628,7 +437,7 @@
                                                     <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion2" href="#collapseTwo2" aria-expanded="true" aria-controls="collapseTwo2">
                                                         <div class="lgx-single-schedule">
                                                             <div class="author">
-                                                                <img src="assets/img/schedule/speaker1.jpg" alt="Speaker"/>
+                                                                <img src="assets/img/schedule/speaker1.jpg" alt="Speaker" />
                                                             </div>
                                                             <div class="schedule-info">
                                                                 <h4 class="time">09:00 <span>Am</span> - 10.30 <span>Am</span></h4>
@@ -644,7 +453,7 @@
                                                     <p class="text">
                                                         Meh synth Schlitz, tempor duis single-origin coffee ea next level ethnic fingerstache fanny pack nostrud. Photo booth anim 8-bit hella, PBR 3 wolf moon beard Helvetica. Salvia esse flexitarian Truffaut synth art party deep v chillwave.
                                                     </p>
-                                                    <h4 class="location"><strong>Location:</strong>  Hall 1, Building A , Golden Street , <span>Southafrica</span> </h4>
+                                                    <h4 class="location"><strong>Location:</strong> Hall 1, Building A , Golden Street , <span>Southafrica</span> </h4>
                                                 </div>
                                             </div>
                                         </div>
@@ -654,7 +463,7 @@
                                                     <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion2" href="#collapseThree2" aria-expanded="true" aria-controls="collapseThree2">
                                                         <div class="lgx-single-schedule">
                                                             <div class="author">
-                                                                <img src="assets/img/schedule/speaker1.jpg" alt="Speaker"/>
+                                                                <img src="assets/img/schedule/speaker1.jpg" alt="Speaker" />
                                                             </div>
                                                             <div class="schedule-info">
                                                                 <h4 class="time">09:00 <span>Am</span> - 10.30 <span>Am</span></h4>
@@ -670,7 +479,7 @@
                                                     <p class="text">
                                                         Meh synth Schlitz, tempor duis single-origin coffee ea next level ethnic fingerstache fanny pack nostrud. Photo booth anim 8-bit hella, PBR 3 wolf moon beard Helvetica. Salvia esse flexitarian Truffaut synth art party deep v chillwave.
                                                     </p>
-                                                    <h4 class="location"><strong>Location:</strong>  Hall 1, Building A , Golden Street , <span>Southafrica</span> </h4>
+                                                    <h4 class="location"><strong>Location:</strong> Hall 1, Building A , Golden Street , <span>Southafrica</span> </h4>
                                                 </div>
                                             </div>
                                         </div>
@@ -688,7 +497,7 @@
                                                     <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion3" href="#collapseOne3" aria-expanded="true" aria-controls="collapseOne3">
                                                         <div class="lgx-single-schedule">
                                                             <div class="author">
-                                                                <img src="assets/img/schedule/speaker1.jpg" alt="Speaker"/>
+                                                                <img src="assets/img/schedule/speaker1.jpg" alt="Speaker" />
                                                             </div>
                                                             <div class="schedule-info">
                                                                 <h4 class="time">09:00 <span>Am</span> - 10.30 <span>Am</span></h4>
@@ -704,7 +513,7 @@
                                                     <p class="text">
                                                         Meh synth Schlitz, tempor duis single-origin coffee ea next level ethnic fingerstache fanny pack nostrud. Photo booth anim 8-bit hella, PBR 3 wolf moon beard Helvetica. Salvia esse flexitarian Truffaut synth art party deep v chillwave.
                                                     </p>
-                                                    <h4 class="location"><strong>Location:</strong>  Hall 1, Building A , Golden Street , <span>Southafrica</span> </h4>
+                                                    <h4 class="location"><strong>Location:</strong> Hall 1, Building A , Golden Street , <span>Southafrica</span> </h4>
                                                 </div>
                                             </div>
                                         </div>
@@ -714,7 +523,7 @@
                                                     <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion3" href="#collapseTwo3" aria-expanded="true" aria-controls="collapseTwo3">
                                                         <div class="lgx-single-schedule">
                                                             <div class="author">
-                                                                <img src="assets/img/schedule/speaker1.jpg" alt="Speaker"/>
+                                                                <img src="assets/img/schedule/speaker1.jpg" alt="Speaker" />
                                                             </div>
                                                             <div class="schedule-info">
                                                                 <h4 class="time">09:00 <span>Am</span> - 10.30 <span>Am</span></h4>
@@ -730,7 +539,7 @@
                                                     <p class="text">
                                                         Meh synth Schlitz, tempor duis single-origin coffee ea next level ethnic fingerstache fanny pack nostrud. Photo booth anim 8-bit hella, PBR 3 wolf moon beard Helvetica. Salvia esse flexitarian Truffaut synth art party deep v chillwave.
                                                     </p>
-                                                    <h4 class="location"><strong>Location:</strong>  Hall 1, Building A , Golden Street , <span>Southafrica</span> </h4>
+                                                    <h4 class="location"><strong>Location:</strong> Hall 1, Building A , Golden Street , <span>Southafrica</span> </h4>
                                                 </div>
                                             </div>
                                         </div>
@@ -740,7 +549,7 @@
                                                     <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion3" href="#collapseThree3" aria-expanded="true" aria-controls="collapseThree3">
                                                         <div class="lgx-single-schedule">
                                                             <div class="author">
-                                                                <img src="assets/img/schedule/speaker1.jpg" alt="Speaker"/>
+                                                                <img src="assets/img/schedule/speaker1.jpg" alt="Speaker" />
                                                             </div>
                                                             <div class="schedule-info">
                                                                 <h4 class="time">09:00 <span>Am</span> - 10.30 <span>Am</span></h4>
@@ -756,7 +565,7 @@
                                                     <p class="text">
                                                         Meh synth Schlitz, tempor duis single-origin coffee ea next level ethnic fingerstache fanny pack nostrud. Photo booth anim 8-bit hella, PBR 3 wolf moon beard Helvetica. Salvia esse flexitarian Truffaut synth art party deep v chillwave.
                                                     </p>
-                                                    <h4 class="location"><strong>Location:</strong>  Hall 1, Building A , Golden Street , <span>Southafrica</span> </h4>
+                                                    <h4 class="location"><strong>Location:</strong> Hall 1, Building A , Golden Street , <span>Southafrica</span> </h4>
                                                 </div>
                                             </div>
                                         </div>
@@ -774,7 +583,7 @@
                                                     <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion4" href="#collapseOne4" aria-expanded="true" aria-controls="collapseOne4">
                                                         <div class="lgx-single-schedule">
                                                             <div class="author">
-                                                                <img src="assets/img/schedule/speaker1.jpg" alt="Speaker"/>
+                                                                <img src="assets/img/schedule/speaker1.jpg" alt="Speaker" />
                                                             </div>
                                                             <div class="schedule-info">
                                                                 <h4 class="time">09:00 <span>Am</span> - 10.30 <span>Am</span></h4>
@@ -790,7 +599,7 @@
                                                     <p class="text">
                                                         Meh synth Schlitz, tempor duis single-origin coffee ea next level ethnic fingerstache fanny pack nostrud. Photo booth anim 8-bit hella, PBR 3 wolf moon beard Helvetica. Salvia esse flexitarian Truffaut synth art party deep v chillwave.
                                                     </p>
-                                                    <h4 class="location"><strong>Location:</strong>  Hall 1, Building A , Golden Street , <span>Southafrica</span> </h4>
+                                                    <h4 class="location"><strong>Location:</strong> Hall 1, Building A , Golden Street , <span>Southafrica</span> </h4>
                                                 </div>
                                             </div>
                                         </div>
@@ -800,7 +609,7 @@
                                                     <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion4" href="#collapseTwo4" aria-expanded="true" aria-controls="collapseTwo4">
                                                         <div class="lgx-single-schedule">
                                                             <div class="author">
-                                                                <img src="assets/img/schedule/speaker1.jpg" alt="Speaker"/>
+                                                                <img src="assets/img/schedule/speaker1.jpg" alt="Speaker" />
                                                             </div>
                                                             <div class="schedule-info">
                                                                 <h4 class="time">09:00 <span>Am</span> - 10.30 <span>Am</span></h4>
@@ -816,7 +625,7 @@
                                                     <p class="text">
                                                         Meh synth Schlitz, tempor duis single-origin coffee ea next level ethnic fingerstache fanny pack nostrud. Photo booth anim 8-bit hella, PBR 3 wolf moon beard Helvetica. Salvia esse flexitarian Truffaut synth art party deep v chillwave.
                                                     </p>
-                                                    <h4 class="location"><strong>Location:</strong>  Hall 1, Building A , Golden Street , <span>Southafrica</span> </h4>
+                                                    <h4 class="location"><strong>Location:</strong> Hall 1, Building A , Golden Street , <span>Southafrica</span> </h4>
                                                 </div>
                                             </div>
                                         </div>
@@ -826,7 +635,7 @@
                                                     <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion4" href="#collapseThree4" aria-expanded="true" aria-controls="collapseThree4">
                                                         <div class="lgx-single-schedule">
                                                             <div class="author">
-                                                                <img src="assets/img/schedule/speaker1.jpg" alt="Speaker"/>
+                                                                <img src="assets/img/schedule/speaker1.jpg" alt="Speaker" />
                                                             </div>
                                                             <div class="schedule-info">
                                                                 <h4 class="time">09:00 <span>Am</span> - 10.30 <span>Am</span></h4>
@@ -842,7 +651,7 @@
                                                     <p class="text">
                                                         Meh synth Schlitz, tempor duis single-origin coffee ea next level ethnic fingerstache fanny pack nostrud. Photo booth anim 8-bit hella, PBR 3 wolf moon beard Helvetica. Salvia esse flexitarian Truffaut synth art party deep v chillwave.
                                                     </p>
-                                                    <h4 class="location"><strong>Location:</strong>  Hall 1, Building A , Golden Street , <span>Southafrica</span> </h4>
+                                                    <h4 class="location"><strong>Location:</strong> Hall 1, Building A , Golden Street , <span>Southafrica</span> </h4>
                                                 </div>
                                             </div>
                                         </div>
@@ -866,8 +675,6 @@
 </section>
 <!--SCHEDULE END-->
 
-
-
 <!--SPONSORED-->
 <section>
     <div id="lgx-sponsors" class="lgx-sponsors">
@@ -888,13 +695,13 @@
                             <h3 class="sponsored-heading first-heading">Gold Sponsors</h3>
                             <div class="sponsors-area sponsors-area-nogap sponsors-area-noshadow sponsors-area-col3"> <!--sponsors-area-col3 sponsors-area-noshadow sponsors-area-nogap sponsors-area-colorfull sponsors-area-colorfull-border sponsors-area-border-->
                                 <div class="single">
-                                    <a class="" href="#"><img src="assets/img/sponsors/sponsor-sp3.png" alt="sponsor"/></a>
+                                    <a class="" href="#"><img src="assets/img/sponsors/sponsor-sp3.png" alt="sponsor" /></a>
                                 </div>
                                 <div class="single">
-                                    <a class="" href="#"><img src="assets/img/sponsors/sponsor-sp2.png" alt="sponsor"/></a>
+                                    <a class="" href="#"><img src="assets/img/sponsors/sponsor-sp2.png" alt="sponsor" /></a>
                                 </div>
                                 <div class="single">
-                                    <a class="" href="#"><img src="assets/img/sponsors/sponsor3.png" alt="sponsor"/></a>
+                                    <a class="" href="#"><img src="assets/img/sponsors/sponsor3.png" alt="sponsor" /></a>
                                 </div>
                             </div>
                         </div>
@@ -906,13 +713,13 @@
                             <h3 class="sponsored-heading secound-heading">Silver Sponsors</h3>
                             <div class="sponsors-area sponsors-area-noshadow sponsors-area-nogap">
                                 <div class="single">
-                                    <a class="" href="#"><img src="assets/img/sponsors/sponsor4.png" alt="sponsor"/></a>
+                                    <a class="" href="#"><img src="assets/img/sponsors/sponsor4.png" alt="sponsor" /></a>
                                 </div>
                                 <div class="single">
-                                    <a class="" href="#"><img src="assets/img/sponsors/sponsor-sp1.png" alt="sponsor"/></a>
+                                    <a class="" href="#"><img src="assets/img/sponsors/sponsor-sp1.png" alt="sponsor" /></a>
                                 </div>
                                 <div class="single">
-                                    <a class="" href="#"><img src="assets/img/sponsors/sponsor3.png" alt="sponsor"/></a>
+                                    <a class="" href="#"><img src="assets/img/sponsors/sponsor3.png" alt="sponsor" /></a>
                                 </div>
                             </div>
                         </div>
@@ -927,284 +734,273 @@
 </section>
 <!--SPONSORED END-->
 
-
-
-
-
-    <!--REGISTRATION-->
-    <section>
-        <div id="lgx-registration" class="lgx-registration"> <!--lgx-registration2 lgx-registration3 lgx-registration4-->
-            <div class="lgx-inner">
-                <div class="container">
-                    <div class="row">
-                        <div class="col-xs-12">
-                            <div class="lgx-registration-area"> <!--lgx-registration-area-nogap lgx-registration-area2 lgx-registration-area3 "-->
-                                <div class="lgx-single-registration">
-                                    <div class="lgx-single-registration-inner">
-                                        <a class="icon" href="#"><img src="assets/img/icons/4.png" alt="ticket"/></a>
-                                        <div class="single-top">
-                                            <h3 class="title">Basic Pass</h3>
-                                            <h4 class="price"><i>$</i>59</h4>
-                                            <p>Price Excluding 20% VAT</p>
-                                        </div>
-                                        <div class="single-bottom">
-                                            <ul class="list-unstyled list">
-                                                <li>Regular Seating</li>
-                                                <li>Comfortable Seat</li>
-                                                <li>Coffee Break</li>
-                                                <li>One Workshop</li>
-                                                <li>Certificate</li>
-                                            </ul>
-                                            <a class="lgx-btn" href="#"><span>Buy Ticket</span></a>
-                                        </div>
+<!--REGISTRATION-->
+<section>
+    <div id="lgx-registration" class="lgx-registration"> <!--lgx-registration2 lgx-registration3 lgx-registration4-->
+        <div class="lgx-inner">
+            <div class="container">
+                <div class="row">
+                    <div class="col-xs-12">
+                        <div class="lgx-registration-area"> <!--lgx-registration-area-nogap lgx-registration-area2 lgx-registration-area3 "-->
+                            <div class="lgx-single-registration">
+                                <div class="lgx-single-registration-inner">
+                                    <a class="icon" href="#"><img src="assets/img/icons/4.png" alt="ticket" /></a>
+                                    <div class="single-top">
+                                        <h3 class="title">Basic Pass</h3>
+                                        <h4 class="price"><i>$</i>59</h4>
+                                        <p>Price Excluding 20% VAT</p>
+                                    </div>
+                                    <div class="single-bottom">
+                                        <ul class="list-unstyled list">
+                                            <li>Regular Seating</li>
+                                            <li>Comfortable Seat</li>
+                                            <li>Coffee Break</li>
+                                            <li>One Workshop</li>
+                                            <li>Certificate</li>
+                                        </ul>
+                                        <a class="lgx-btn" href="#"><span>Buy Ticket</span></a>
                                     </div>
                                 </div>
-                                <div class="lgx-single-registration recommended">
-                                    <div class="lgx-single-registration-inner">
-                                        <a class="icon" href="#"><img src="assets/img/icons/3.png" alt="ticket"/></a>
-                                        <div class="single-top">
-                                            <h3 class="title">Standard Pass</h3>
-                                            <h4 class="price"><i>$</i>89</h4>
-                                            <p>Price Excluding 20% VAT</p>
-                                        </div>
-                                        <div class="single-bottom">
-                                            <ul class="list-unstyled list">
-                                                <li>Regular Seating</li>
-                                                <li>Comfortable Seat</li>
-                                                <li>Coffee Break</li>
-                                                <li>One Workshop</li>
-                                                <li>Certificate</li>
-                                            </ul>
-                                            <a class="lgx-btn" href="#"><span>Buy Ticket</span></a>
-                                        </div>
+                            </div>
+                            <div class="lgx-single-registration recommended">
+                                <div class="lgx-single-registration-inner">
+                                    <a class="icon" href="#"><img src="assets/img/icons/3.png" alt="ticket" /></a>
+                                    <div class="single-top">
+                                        <h3 class="title">Standard Pass</h3>
+                                        <h4 class="price"><i>$</i>89</h4>
+                                        <p>Price Excluding 20% VAT</p>
+                                    </div>
+                                    <div class="single-bottom">
+                                        <ul class="list-unstyled list">
+                                            <li>Regular Seating</li>
+                                            <li>Comfortable Seat</li>
+                                            <li>Coffee Break</li>
+                                            <li>One Workshop</li>
+                                            <li>Certificate</li>
+                                        </ul>
+                                        <a class="lgx-btn" href="#"><span>Buy Ticket</span></a>
                                     </div>
                                 </div>
-                                <div class="lgx-single-registration">
-                                    <div class="lgx-single-registration-inner">
-                                        <a class="icon" href="#"><img src="assets/img/icons/2.png" alt="ticket"/></a>
-                                        <div class="single-top">
-                                            <h3 class="title">Golden Pass</h3>
-                                            <h4 class="price"><i>$</i>99</h4>
-                                            <p>Price Excluding 20% VAT</p>
-                                        </div>
-                                        <div class="single-bottom">
-                                            <ul class="list-unstyled list">
-                                                <li>Regular Seating</li>
-                                                <li>Comfortable Seat</li>
-                                                <li>Coffee Break</li>
-                                                <li>One Workshop</li>
-                                                <li>Certificate</li>
-                                            </ul>
-                                            <a class="lgx-btn" href="#"><span>Buy Ticket</span></a>
-                                        </div>
+                            </div>
+                            <div class="lgx-single-registration">
+                                <div class="lgx-single-registration-inner">
+                                    <a class="icon" href="#"><img src="assets/img/icons/2.png" alt="ticket" /></a>
+                                    <div class="single-top">
+                                        <h3 class="title">Golden Pass</h3>
+                                        <h4 class="price"><i>$</i>99</h4>
+                                        <p>Price Excluding 20% VAT</p>
+                                    </div>
+                                    <div class="single-bottom">
+                                        <ul class="list-unstyled list">
+                                            <li>Regular Seating</li>
+                                            <li>Comfortable Seat</li>
+                                            <li>Coffee Break</li>
+                                            <li>One Workshop</li>
+                                            <li>Certificate</li>
+                                        </ul>
+                                        <a class="lgx-btn" href="#"><span>Buy Ticket</span></a>
                                     </div>
                                 </div>
                             </div>
                         </div>
                     </div>
-                </div><!-- //.CONTAINER -->
-            </div><!-- //.INNER -->
-        </div>
-    </section>
-    <!--REGISTRATION END-->
-
-
-    <!--TESTIMONIALS -->
-    <section>
-        <div id="lgx-testimonial" class="lgx-testimonial">
-            <div class="lgx-inner">
-                <div class="container">
-                    <div class="row">
-                        <div class="col-xs-12">
-                            <div class="lgx-heading">
-                                <h2 class="heading">What Clients Say</h2>
-                                <h3 class="subheading">Welcome to the dedicated to building remarkable Testimonials!</h3>
-                            </div>
-                        </div>
-                    </div>
-                    <!--//.ROW-->
-                    <div class="row">
-                        <div id="lgx-owltestimonial" class="lgx-owltestimonial lgx-owlnews">
-
-                            <div class="item">
-                                <!--Testimonial-single-->
-                                <blockquote class="lgx-testi-single">
-                                    <p><span>This is the best Event Organization in the world</span> Proin sodales dapibus magna, et porta leo convallis sed. Duis tincidunt libero ut neque mollis dignissim. Nullam ultricies sit amet quam non iaculis. Curabitur convallis nulla non nibh aliquet rhoncus. Donec at tempus felis.</p>
-                                    <div class="author">
-                                        <img src="assets/img/testimonials/author1.jpg" alt="author">
-                                        <h4 class="title"><a href="#"></a>Jonathon Doe</h4>
-                                        <div class="rate">
-                                            <i class="fa fa-star active"></i>
-                                            <i class="fa fa-star active"></i>
-                                            <i class="fa fa-star active"></i>
-                                            <i class="fa fa-star active"></i>
-                                            <i class="fa fa-star"></i>
-                                        </div>
-                                    </div>
-                                </blockquote> <!--//.Testimonial-single-->
-                            </div> <!--//.Item-->
-                            <div class="item">
-                                <!--Testimonial-single-->
-                                <blockquote class="lgx-testi-single">
-                                    <p><span>This is the best Event Organization in the world</span> Proin sodales dapibus magna, et porta leo convallis sed. Duis tincidunt libero ut neque mollis dignissim. Nullam ultricies sit amet quam non iaculis. Curabitur convallis nulla non nibh aliquet rhoncus. Donec at tempus felis.</p>
-                                    <div class="author">
-                                        <img src="assets/img/testimonials/author1.jpg" alt="author">
-                                        <h4 class="title"><a href="#"></a>Jonathon Doe</h4>
-                                        <div class="rate">
-                                            <i class="fa fa-star active"></i>
-                                            <i class="fa fa-star active"></i>
-                                            <i class="fa fa-star active"></i>
-                                            <i class="fa fa-star active"></i>
-                                            <i class="fa fa-star"></i>
-                                        </div>
-                                    </div>
-                                </blockquote> <!--//.Testimonial-single-->
-                            </div> <!--//.Item-->
-                            <div class="item">
-                                <!--Testimonial-single-->
-                                <blockquote class="lgx-testi-single">
-                                    <p><span>This is the best Event Organization in the world</span> Proin sodales dapibus magna, et porta leo convallis sed. Duis tincidunt libero ut neque mollis dignissim. Nullam ultricies sit amet quam non iaculis. Curabitur convallis nulla non nibh aliquet rhoncus. Donec at tempus felis.</p>
-                                    <div class="author">
-                                        <img src="assets/img/testimonials/author1.jpg" alt="author">
-                                        <h4 class="title"><a href="#"></a>Jonathon Doe</h4>
-                                        <div class="rate">
-                                            <i class="fa fa-star active"></i>
-                                            <i class="fa fa-star active"></i>
-                                            <i class="fa fa-star active"></i>
-                                            <i class="fa fa-star active"></i>
-                                            <i class="fa fa-star"></i>
-                                        </div>
-                                    </div>
-                                </blockquote> <!--//.Testimonial-single-->
-                            </div> <!--//.Item-->
-                        </div><!--l//#lgx-OWL NEWS-->
-                    </div>
-                </div><!-- //.CONTAINER -->
-            </div><!-- //.INNER -->
-        </div>
-    </section>
-    <!--TESTIMONIALS END-->
-
-
-    <!--News-->
-    <section>
-        <div id="lgx-news" class="lgx-news">
-            <div class="lgx-inner">
-                <div class="container">
-                    <div class="row">
-                        <div class="col-xs-12">
-                            <div class="lgx-heading">
-                                <h2 class="heading">From Our Blog</h2>
-                                <h3 class="subheading">Conferences dedicated to building remarkable events.</h3>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="row">
-                        <div class="col-xs-12 col-sm-6 col-md-4">
-                            <div class="lgx-single-news">
-                                <figure>
-                                    <a href="news-single.html"><img src="assets/img/news/news1.jpg" alt=""></a>
-                                </figure>
-                                <div class="single-news-info">
-                                    <div class="meta-wrapper">
-                                        <span>April 25, 2021</span>
-                                        <span>by <a href="#">Riazsagar</a></span>
-                                        <span><a href="#">Design</a></span>
-                                    </div>
-                                    <h3 class="title"><a href="news-single.html">Brooklyn Beta was the most important conferen best tristique</a></h3>
-                                    <a class="lgx-btn lgx-btn-white lgx-btn-sm" href="#"><span>Read More</span></a>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-xs-12 col-sm-6 col-md-4">
-                            <div class="lgx-single-news">
-                                <figure>
-                                    <a href="news-single.html"><img src="assets/img/news/news3.jpg" alt=""></a>
-                                </figure>
-                                <div class="single-news-info">
-                                    <div class="meta-wrapper">
-                                        <span>April 25, 2021</span>
-                                        <span>by <a href="#">Riazsagar</a></span>
-                                        <span><a href="#">Design</a></span>
-                                    </div>
-                                    <h3 class="title"><a href="news-single.html">Brooklyn Beta was the most important conferen best tristique</a></h3>
-                                    <a class="lgx-btn lgx-btn-white lgx-btn-sm" href="#"><span>Read More</span></a>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-xs-12 col-sm-6 col-md-4">
-                            <div class="lgx-single-news">
-                                <figure>
-                                    <a href="news-single.html"><img src="assets/img/news/news2.jpg" alt=""></a>
-                                </figure>
-                                <div class="single-news-info">
-                                    <div class="meta-wrapper">
-                                        <span>April 25, 2021</span>
-                                        <span>by <a href="#">Riazsagar</a></span>
-                                        <span><a href="#">Design</a></span>
-                                    </div>
-                                    <h3 class="title"><a href="news-single.html">Brooklyn Beta was the most important conferen best tristique</a></h3>
-                                    <a class="lgx-btn lgx-btn-white lgx-btn-sm" href="#"><span>Read More</span></a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="section-btn-area">
-                        <a class="lgx-btn" href="news.html">View More Blogs</a>
-                    </div>
-                </div><!-- //.CONTAINER -->
-            </div><!-- //.INNER -->
-        </div>
-    </section>
-    <!--News END-->
-
-
-
-    <!--TRAVEL INFO-->
-    <section>
-        <div id="lgx-travelinfo" class="lgx-travelinfo">
-            <div class="lgx-inner">
-                <div class="container">
-                    <div class="row">
-                        <div class="col-xs-12">
-                            <div class="lgx-heading">
-                                <h2 class="heading">Event Information</h2>
-                                <h3 class="subheading">Conferences dedicated to building remarkable events.</h3>
-                            </div>
-                        </div>
-                        <!--//main COL-->
-                    </div>
-                    <div class="row">
-                        <div class="col-xs-12">
-                            <div class="lgx-travelinfo-content">
-                                <div class="lgx-travelinfo-single">
-                                    <img src="assets/img/info-icon1.png" alt="location"/>
-                                    <h3 class="title">Venue</h3>
-                                    <p class="info">Docklands Convention Centre 58 Wurundjeri Way Dablin, 3000</p>
-                                </div>
-                                <div class="lgx-travelinfo-single">
-                                    <img src="assets/img/info-icon2.png" alt="Transport"/>
-                                    <h3 class="title">Transport</h3>
-                                    <p class="info">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do incididunt</p>
-                                </div>
-                                <div class="lgx-travelinfo-single">
-                                    <img src="assets/img/info-icon3.png" alt="Hotel & Restaurant"/>
-                                    <h3 class="title">Hotel & Restaurant</h3>
-                                    <p class="info">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do incididunt</p>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <!--//.ROW-->
                 </div>
-                <!-- //.CONTAINER -->
+            </div><!-- //.CONTAINER -->
+        </div><!-- //.INNER -->
+    </div>
+</section>
+<!--REGISTRATION END-->
+
+<!--TESTIMONIALS -->
+<section>
+    <div id="lgx-testimonial" class="lgx-testimonial">
+        <div class="lgx-inner">
+            <div class="container">
+                <div class="row">
+                    <div class="col-xs-12">
+                        <div class="lgx-heading">
+                            <h2 class="heading">What Clients Say</h2>
+                            <h3 class="subheading">Welcome to the dedicated to building remarkable Testimonials!</h3>
+                        </div>
+                    </div>
+                </div>
+                <!--//.ROW-->
+                <div class="row">
+                    <div id="lgx-owltestimonial" class="lgx-owltestimonial lgx-owlnews">
+
+                        <div class="item">
+                            <!--Testimonial-single-->
+                            <blockquote class="lgx-testi-single">
+                                <p><span>This is the best Event Organization in the world</span> Proin sodales dapibus magna, et porta leo convallis sed. Duis tincidunt libero ut neque mollis dignissim. Nullam ultricies sit amet quam non iaculis. Curabitur convallis nulla non nibh aliquet rhoncus. Donec at tempus felis.</p>
+                                <div class="author">
+                                    <img src="assets/img/testimonials/author1.jpg" alt="author">
+                                    <h4 class="title"><a href="#"></a>Jonathon Doe</h4>
+                                    <div class="rate">
+                                        <i class="fa fa-star active"></i>
+                                        <i class="fa fa-star active"></i>
+                                        <i class="fa fa-star active"></i>
+                                        <i class="fa fa-star active"></i>
+                                        <i class="fa fa-star"></i>
+                                    </div>
+                                </div>
+                            </blockquote> <!--//.Testimonial-single-->
+                        </div> <!--//.Item-->
+                        <div class="item">
+                            <!--Testimonial-single-->
+                            <blockquote class="lgx-testi-single">
+                                <p><span>This is the best Event Organization in the world</span> Proin sodales dapibus magna, et porta leo convallis sed. Duis tincidunt libero ut neque mollis dignissim. Nullam ultricies sit amet quam non iaculis. Curabitur convallis nulla non nibh aliquet rhoncus. Donec at tempus felis.</p>
+                                <div class="author">
+                                    <img src="assets/img/testimonials/author1.jpg" alt="author">
+                                    <h4 class="title"><a href="#"></a>Jonathon Doe</h4>
+                                    <div class="rate">
+                                        <i class="fa fa-star active"></i>
+                                        <i class="fa fa-star active"></i>
+                                        <i class="fa fa-star active"></i>
+                                        <i class="fa fa-star active"></i>
+                                        <i class="fa fa-star"></i>
+                                    </div>
+                                </div>
+                            </blockquote> <!--//.Testimonial-single-->
+                        </div> <!--//.Item-->
+                        <div class="item">
+                            <!--Testimonial-single-->
+                            <blockquote class="lgx-testi-single">
+                                <p><span>This is the best Event Organization in the world</span> Proin sodales dapibus magna, et porta leo convallis sed. Duis tincidunt libero ut neque mollis dignissim. Nullam ultricies sit amet quam non iaculis. Curabitur convallis nulla non nibh aliquet rhoncus. Donec at tempus felis.</p>
+                                <div class="author">
+                                    <img src="assets/img/testimonials/author1.jpg" alt="author">
+                                    <h4 class="title"><a href="#"></a>Jonathon Doe</h4>
+                                    <div class="rate">
+                                        <i class="fa fa-star active"></i>
+                                        <i class="fa fa-star active"></i>
+                                        <i class="fa fa-star active"></i>
+                                        <i class="fa fa-star active"></i>
+                                        <i class="fa fa-star"></i>
+                                    </div>
+                                </div>
+                            </blockquote> <!--//.Testimonial-single-->
+                        </div> <!--//.Item-->
+                    </div><!--l//#lgx-OWL NEWS-->
+                </div>
+            </div><!-- //.CONTAINER -->
+        </div><!-- //.INNER -->
+    </div>
+</section>
+<!--TESTIMONIALS END-->
+
+<!--News-->
+<section>
+    <div id="lgx-news" class="lgx-news">
+        <div class="lgx-inner">
+            <div class="container">
+                <div class="row">
+                    <div class="col-xs-12">
+                        <div class="lgx-heading">
+                            <h2 class="heading">From Our Blog</h2>
+                            <h3 class="subheading">Conferences dedicated to building remarkable events.</h3>
+                        </div>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-xs-12 col-sm-6 col-md-4">
+                        <div class="lgx-single-news">
+                            <figure>
+                                <a href="news-single.html"><img src="assets/img/news/news1.jpg" alt=""></a>
+                            </figure>
+                            <div class="single-news-info">
+                                <div class="meta-wrapper">
+                                    <span>April 25, 2021</span>
+                                    <span>by <a href="#">Riazsagar</a></span>
+                                    <span><a href="#">Design</a></span>
+                                </div>
+                                <h3 class="title"><a href="news-single.html">Brooklyn Beta was the most important conferen best tristique</a></h3>
+                                <a class="lgx-btn lgx-btn-white lgx-btn-sm" href="#"><span>Read More</span></a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-xs-12 col-sm-6 col-md-4">
+                        <div class="lgx-single-news">
+                            <figure>
+                                <a href="news-single.html"><img src="assets/img/news/news3.jpg" alt=""></a>
+                            </figure>
+                            <div class="single-news-info">
+                                <div class="meta-wrapper">
+                                    <span>April 25, 2021</span>
+                                    <span>by <a href="#">Riazsagar</a></span>
+                                    <span><a href="#">Design</a></span>
+                                </div>
+                                <h3 class="title"><a href="news-single.html">Brooklyn Beta was the most important conferen best tristique</a></h3>
+                                <a class="lgx-btn lgx-btn-white lgx-btn-sm" href="#"><span>Read More</span></a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-xs-12 col-sm-6 col-md-4">
+                        <div class="lgx-single-news">
+                            <figure>
+                                <a href="news-single.html"><img src="assets/img/news/news2.jpg" alt=""></a>
+                            </figure>
+                            <div class="single-news-info">
+                                <div class="meta-wrapper">
+                                    <span>April 25, 2021</span>
+                                    <span>by <a href="#">Riazsagar</a></span>
+                                    <span><a href="#">Design</a></span>
+                                </div>
+                                <h3 class="title"><a href="news-single.html">Brooklyn Beta was the most important conferen best tristique</a></h3>
+                                <a class="lgx-btn lgx-btn-white lgx-btn-sm" href="#"><span>Read More</span></a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="section-btn-area">
+                    <a class="lgx-btn" href="news.html">View More Blogs</a>
+                </div>
+            </div><!-- //.CONTAINER -->
+        </div><!-- //.INNER -->
+    </div>
+</section>
+<!--News END-->
+
+<!--TRAVEL INFO-->
+<section>
+    <div id="lgx-travelinfo" class="lgx-travelinfo">
+        <div class="lgx-inner">
+            <div class="container">
+                <div class="row">
+                    <div class="col-xs-12">
+                        <div class="lgx-heading">
+                            <h2 class="heading">Event Information</h2>
+                            <h3 class="subheading">Conferences dedicated to building remarkable events.</h3>
+                        </div>
+                    </div>
+                    <!--//main COL-->
+                </div>
+                <div class="row">
+                    <div class="col-xs-12">
+                        <div class="lgx-travelinfo-content">
+                            <div class="lgx-travelinfo-single">
+                                <img src="assets/img/info-icon1.png" alt="location" />
+                                <h3 class="title">Venue</h3>
+                                <p class="info">Docklands Convention Centre 58 Wurundjeri Way Dablin, 3000</p>
+                            </div>
+                            <div class="lgx-travelinfo-single">
+                                <img src="assets/img/info-icon2.png" alt="Transport" />
+                                <h3 class="title">Transport</h3>
+                                <p class="info">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do incididunt</p>
+                            </div>
+                            <div class="lgx-travelinfo-single">
+                                <img src="assets/img/info-icon3.png" alt="Hotel & Restaurant" />
+                                <h3 class="title">Hotel & Restaurant</h3>
+                                <p class="info">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do incididunt</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!--//.ROW-->
             </div>
+            <!-- //.CONTAINER -->
         </div>
-    </section>
-    <!--TRAVEL INFO END-->
-
-
-
+    </div>
+</section>
+<!--TRAVEL INFO END-->
 
 <!--VIDEO-->
 <section>
@@ -1248,93 +1044,7 @@
 </section>
 <!--//.VIDEO END-->
 
-
-
-
-
-<!--FOOTER-->
-<footer>
-    <div id="lgx-footer" class="lgx-footer"> <!--lgx-footer-white-->
-        <div class="lgx-inner-footer">
-            <div class="lgx-subscriber-area ">
-                <div class="container">
-                    <div class="lgx-subscriber-inner">  <!--lgx-subscriber-inner-indiv-->
-                        <h3 class="subscriber-title">Join Newsletter</h3>
-                        <form class="lgx-subscribe-form" >
-                            <div class="form-group form-group-email">
-                                <input type="email" id="subscribe" placeholder="Enter your email Address  ..." class="form-control lgx-input-form form-control"  />
-                            </div>
-                            <div class="form-group form-group-submit">
-                                <button type="submit" name="lgx-submit" id="lgx-submit" class="lgx-btn lgx-submit"><span>Subscribe</span></button>
-                            </div>
-                        </form> <!--//.SUBSCRIBE-->
-                    </div>
-                </div>
-            </div>
-            <div class="container">
-                <div class="lgx-footer-area">
-                    <div class="lgx-footer-single">
-                        <a class="logo" href="index.html"><img src="assets/img/footer-logo.png" alt="Logo"></a>
-                    </div> <!--//footer-area-->
-                    <div class="lgx-footer-single">
-                        <h3 class="footer-title">Venue Location </h3>
-                        <h4 class="date">
-                            18 - 21 December, 2021
-                        </h4>
-                        <address>
-                            85 Golden Street, Darlinghurst <br>
-                            ERP 2021, United States
-                        </address>
-                        <a id="myModalLabel2" data-toggle="modal" data-target="#lgx-modal-map" class="map-link" href="#"><i class="fa fa-map-marker" aria-hidden="true"></i> View Map location</a>
-                    </div>
-                    <div class="lgx-footer-single">
-                        <h3 class="footer-title">Social Connection</h3>
-                        <p class="text">
-                            You should connect social area <br> for Any update
-                        </p>
-                        <ul class="list-inline lgx-social-footer">
-                            <li><a href="#"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
-                            <li><a href="#"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
-                            <li><a href="#"><i class="fa fa-instagram" aria-hidden="true"></i></a></li>
-                            <li><a href="#"><i class="fa fa-vimeo" aria-hidden="true"></i></a></li>
-                            <li><a href="#"><i class="fa fa-behance" aria-hidden="true"></i></a></li>
-                            <li><a href="#"><i class="fa fa-dribbble" aria-hidden="true"></i></a></li>
-                        </ul>
-                    </div>
-                    <!--<div class="lgx-footer-single">
-                        <h2 class="footer-title">Instagram Feed</h2>
-                        <div id="instafeed">
-                        </div>
-                    </div>-->
-                </div>
-                <!-- Modal-->
-                <div id="lgx-modal-map" class="modal fade lgx-modal">
-                    <div class="modal-dialog">
-                        <div class="modal-content">
-                            <div class="modal-header">
-                                <button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
-                            </div>
-                            <div class="modal-body">
-                                <div class="lgxmapcanvas map-canvas-default" id="map_canvas"> </div>
-                            </div>
-                        </div>
-                    </div>
-                </div> <!-- //.Modal-->
-
-                <div class="lgx-footer-bottom">
-                    <div class="lgx-copyright">
-                        <p> <span>©</span> 2020 Emeet is powered by <a href="http://www.themearth.com/">themearth.</a> The property of their owners.</p>
-                    </div>
-                </div>
-
-            </div>
-            <!-- //.CONTAINER -->
-        </div>
-        <!-- //.footer Middle -->
-    </div>
-</footer>
-<!--FOOTER END-->
-
+<?php include 'include/footer.php' ?>
 
 </div>
 <!--//.LGX SITE CONTAINER-->
@@ -1388,13 +1098,11 @@
 <!-- CUSTOM SCRIPT  -->
 <script src="assets/js/custom.script.js"></script>
 
-<div class="lgx-switcher-loader"></div>
+<div class="lgx-switcher-loader" style="display: none;"></div>
 <!-- For Demo Purpose Only// Remove From Live -->
 <script src="switcher/js/switcherd41d.js?"></script>
 <!-- For Demo Purpose Only //Remove From Live-->
 
 
 </body>
-
-<!-- Mirrored from themearth.com/demo/html/emeet/view/index.html by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 07 Feb 2025 16:03:49 GMT -->
 </html>
