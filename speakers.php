@@ -60,7 +60,7 @@
 
     <!-- BOOTSTRAP CSS -->
     <link rel="stylesheet" href="assets/libs/bootstrap/css/bootstrap.min.css" media="all"/>
-
+    <link rel="stylesheet" href="speakers.css"/>
     <!-- FONT AWESOME -->
     <link rel="stylesheet" href="assets/libs/fontawesome/css/font-awesome.min.css" media="all"/>
 
@@ -86,10 +86,7 @@
 
 <body class="home">
 
-<!--[if lt IE 8]>
-<p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade
-    your browser</a> to improve your experience.</p>
-<![endif]-->
+
 
 <div class="lgx-container ">
 <!-- ***  ADD YOUR SITE CONTENT HERE *** -->
@@ -230,7 +227,7 @@
             <!--News-->
             <section>
                 <div class="container">
-                    <div class="row">
+                    <!-- <div class="row">
                         <div class="col-xs-12 col-sm-6 col-md-4">
                             <div class="lgx-single-speaker">
                                 <figure>
@@ -288,9 +285,9 @@
                                 </figure>
                             </div>
                         </div>
-                    </div>
+                    </div> -->
 
-                    <div class="row">
+                    <!-- <div class="row">
                         <div class="col-xs-12 col-sm-6 col-md-4">
                             <div class="lgx-single-speaker2 lgx-single-speaker3">
                                 <figure>
@@ -348,12 +345,12 @@
                                 </figure>
                             </div>
                         </div>
-                    </div>
+                    </div> -->
                     <!--//.ROW-->
 
-                    <div class="row">
+                    <!-- <div class="row">
                         <div class="col-xs-12 col-sm-6 col-md-4">
-                            <div class="lgx-single-speaker2"> <!--lgx-single-speaker lgx-single-speaker2 lgx-single-speaker3-->
+                            <div class="lgx-single-speaker2"> 
                                 <figure>
                                     <a class="profile-img" href="speakers.html"><img src="assets/img/speakers/speaker1.jpg" alt="speaker"/></a>
                                     <figcaption>
@@ -372,7 +369,7 @@
                             </div>
                         </div>
                         <div class="col-xs-12 col-sm-6 col-md-4">
-                            <div class="lgx-single-speaker2"> <!--lgx-single-speaker lgx-single-speaker2 lgx-single-speaker3-->
+                            <div class="lgx-single-speaker2"> 
                                 <figure>
                                     <a class="profile-img" href="speakers.html"><img src="assets/img/speakers/speaker2.jpg" alt="speaker"/></a>
                                     <figcaption>
@@ -391,7 +388,7 @@
                             </div>
                         </div>
                         <div class="col-xs-12 col-sm-6 col-md-4">
-                            <div class="lgx-single-speaker2"> <!--lgx-single-speaker lgx-single-speaker2 lgx-single-speaker3-->
+                            <div class="lgx-single-speaker2"> 
                                 <figure>
                                     <a class="profile-img" href="speakers.html"><img src="assets/img/speakers/speaker3.jpg" alt="speaker"/></a>
                                     <figcaption>
@@ -409,11 +406,11 @@
                                 </figure>
                             </div>
                         </div>
-                    </div>
+                    </div> -->
                     <!--//.ROW-->
 
 
-                    <div class="row">
+                    <!-- <div class="row">
                         <div class="col-xs-12">
                             <div class="lgx-col4 lgx-single-speaker2">
                                 <figure>
@@ -484,24 +481,24 @@
                                 </figure>
                             </div>
                         </div>
-                    </div>
+                    </div> -->
                     <!--//.ROW-->
 
                     <div class="row">
                         <div class="col-xs-12">
                             <div class="lgx-col3 lgx-single-speaker2">
                                 <figure>
-                                    <a class="profile-img" href="speakers.html"><img src="assets/img/speakers/speaker1.jpg" alt="speaker"/></a>
+                                    <a class="profile-img" href="speakers.html"><img src="assets/img/speakers/speaker1.jpg"  alt="speaker"/></a>
                                     <figcaption>
-                                        <div class="social-group">
+                                        <!-- <div class="social-group">
                                             <a class="sp-tw" href="#"><i class="fa fa-twitter"></i></a>
                                             <a class="sp-fb" href="#"><i class="fa fa-facebook"></i></a>
                                             <a class="sp-insta" href="#"><i class="fa fa-instagram"></i></a>
                                             <a class="sp-in" href="#"><i class="fa fa-linkedin"></i></a>
-                                        </div>
+                                        </div> -->
                                         <div class="speaker-info">
-                                            <h3 class="title"><a href="speaker.html">Jonathon Doe</a></h3>
-                                            <h4 class="subtitle">Ceo of LogicHunt</h4>
+                                            <h3 class="title"><a href="speaker.html">Anna Langheiter</a></h3>
+                                            <h4 class="subtitle">The Expert in Training Design at Mind in Motion GmbH</h4>
                                         </div>
                                     </figcaption>
                                 </figure>
@@ -510,15 +507,16 @@
                                 <figure>
                                     <a class="profile-img" href="speakers.html"><img src="assets/img/speakers/speaker2.jpg" alt="speaker"/></a>
                                     <figcaption>
-                                        <div class="social-group">
+                                        <!-- <div class="social-group">
                                             <a class="sp-tw" href="#"><i class="fa fa-twitter"></i></a>
                                             <a class="sp-fb" href="#"><i class="fa fa-facebook"></i></a>
                                             <a class="sp-insta" href="#"><i class="fa fa-instagram"></i></a>
                                             <a class="sp-in" href="#"><i class="fa fa-linkedin"></i></a>
-                                        </div>
+                                        </div> -->
                                         <div class="speaker-info">
-                                            <h3 class="title"><a href="speaker.html">Jonathon Doe</a></h3>
-                                            <h4 class="subtitle">Ceo of LogicHunt</h4>
+                                            <h3 class="title"><a href="speaker.html">Adejoke Alli</a></h3>
+                                            <h4 class="subtitle">Human Resource Manager at Fidson Healthcare
+                                            Plc</h4>
                                         </div>
                                     </figcaption>
                                 </figure>
@@ -527,14 +525,48 @@
                                 <figure>
                                     <a class="profile-img" href="speakers.html"><img src="assets/img/speakers/speaker3.jpg" alt="speaker"/></a>
                                     <figcaption>
-                                        <div class="social-group">
+                                        <!-- <div class="social-group">
                                             <a class="sp-tw" href="#"><i class="fa fa-twitter"></i></a>
                                             <a class="sp-fb" href="#"><i class="fa fa-facebook"></i></a>
                                             <a class="sp-insta" href="#"><i class="fa fa-instagram"></i></a>
                                             <a class="sp-in" href="#"><i class="fa fa-linkedin"></i></a>
-                                        </div>
+                                        </div> -->
                                         <div class="speaker-info">
-                                            <h3 class="title"><a href="speaker.html">Jonathon Doe</a></h3>
+                                            <h3 class="title"><a href="speaker.html">Dr. Michael Ogu</a></h3>
+                                            <h4 class="subtitle">Chief Human Resources Officer at Canary Point Holding Limited</h4>
+                                        </div>
+                                    </figcaption>
+                                </figure>
+                            </div>
+                            <div class="lgx-col3 lgx-single-speaker2">
+                                <figure>
+                                    <a class="profile-img" href="speakers.html"><img src="assets/img/speakers/speaker2.jpg" alt="speaker"/></a>
+                                    <figcaption>
+                                        <!-- <div class="social-group">
+                                            <a class="sp-tw" href="#"><i class="fa fa-twitter"></i></a>
+                                            <a class="sp-fb" href="#"><i class="fa fa-facebook"></i></a>
+                                            <a class="sp-insta" href="#"><i class="fa fa-instagram"></i></a>
+                                            <a class="sp-in" href="#"><i class="fa fa-linkedin"></i></a>
+                                        </div> -->
+                                        <div class="speaker-info">
+                                            <h3 class="title"><a href="speaker.html">Melanie Martinelli</a></h3>
+                                            <h4 class="subtitle">Founder of Going Beyond Training</h4>
+                                        </div>
+                                    </figcaption>
+                                </figure>
+                            </div>
+                            <div class="lgx-col3 lgx-single-speaker2">
+                                <figure>
+                                    <a class="profile-img" href="speakers.html"><img src="assets/img/speakers/speaker3.jpg" alt="speaker"/></a>
+                                    <figcaption>
+                                        <!-- <div class="social-group">
+                                            <a class="sp-tw" href="#"><i class="fa fa-twitter"></i></a>
+                                            <a class="sp-fb" href="#"><i class="fa fa-facebook"></i></a>
+                                            <a class="sp-insta" href="#"><i class="fa fa-instagram"></i></a>
+                                            <a class="sp-in" href="#"><i class="fa fa-linkedin"></i></a>
+                                        </div> -->
+                                        <div class="speaker-info">
+                                            <h3 class="title"><a href="speaker.html">Tom Meier</a></h3>
                                             <h4 class="subtitle">Ceo of LogicHunt</h4>
                                         </div>
                                     </figcaption>
@@ -542,9 +574,11 @@
                             </div>
                         </div>
                     </div>
+
+                    
                     <!--//.ROW-->
 
-                    <div class="row">
+                    <!-- <div class="row">
                         <div class="col-xs-12">
                             <div class="lgx-col2 lgx-single-speaker2">
                                 <figure>
@@ -581,12 +615,12 @@
                                 </figure>
                             </div>
                         </div>
-                    </div>
+                    </div> -->
 
 
                 </div><!-- //.CONTAINER -->
 
-                <div class="container-fluid" style="margin-top: 6.8rem">
+                <!-- <div class="container-fluid" style="margin-top: 6.8rem">
                     <div class="row">
                         <div class="col-xs-12">
                             <div class="lgx-col5 lgx-single-speaker2">
@@ -806,7 +840,7 @@
                         </div>
                     </div>
 
-                </div>
+                </div> -->
             </section>
             <!--News END-->
         </div>
