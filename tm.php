@@ -34,90 +34,90 @@
                         <div class="row">
                             <div class="col-sm-12 col-md-5">
                                 <div class="lgx-about-img">
-                                    <img src="assets/img/about-sp3.png" alt="about">
+                                    <img src="assets/img/about-sp2.jpg" alt="about">
                                 </div>
                             </div>
                             <div class="col-sm-12 col-md-7">
                                 <div class="lgx-about-content-area">
                                     <div class="lgx-heading">
-                                        <h2 class="heading">About ITTEC</h2>
-                                        <h3 class="subheading">A bold call to action for leaders who are tired of seeing training dollars go to waste.</h3>
+                                        <h2 class="heading"> What is Training Scrap <sup>TM</sup> ?</h2>
+                                        <h3 class="subheading">Training Scrap™ isn’t inevitable—it is preventable.</h3>
                                     </div>
                                     <div class="lgx-about-content">
                                         <p class="text">
-                                            At its very heart, the International Training Transfer Effectiveness Conference (ITTEC) 2025 is the definitive response to a question that every visionary business, L&D, and HR leader has grappled with:
-                                            Why doesn’t training consistently improve the bottom line?
-                                        </p>
-                                        <p class="text">
-                                            Every year, organizations invest millions in training initiatives, fueled by the belief that upskilling employees will naturally translate into measurable results. Yet, time and again, leaders are left asking why performance gaps persist, why productivity gains fall short, and why their teams are still not reaching their full potential.
-                                            The answer lies in a critical yet often overlooked factor: training transfer.
-                                            It is not enough for employees to attend workshops or complete online modules; the true value of training is realized only when the knowledge and skills acquired are effectively applied to drive business outcomes.
-                                            It is a movement to bridge the gap between learning and performance by addressing the systemic barriers that hinder training transfer – barriers that affect not just individual employees but entire organizations.
+                                            Every year, organizations invest millions in training programs, expecting to see measurable improvements in employee performance and business outcomes. Yet, the harsh reality is that a significant portion of this investment fails to translate into real-world results. This silent, yet pervasive issue leaves leaders frustrated, resources wasted, and potential untapped.
+                                            This phenomenon, aptly named Training Scrap™ by our CEO, Sandra Ihenacho, stems from years of research and practical insights into the disconnect between training initiatives and workplace application.
+                                            Training Scrap™ refers to the portion of training that never gets utilized skills learned but never applied, knowledge gained but never acted upon, insights shared but left unrealized. It is the difference between what was taught in the classroom and what is actually put into practice on the job.
                                         </p>
                                     </div>
                                 </div>
                             </div>
                         </div>
 
-                        <!-- Difference -->
-                        <div class="row mt-5 flex justify-center">
-                            <div class="col-md-12 col-lg-10 mx-auto">
-                                <h3 class="text-center .h3">What makes ITTEC different?</h3>
-                                <p>ITTEC is rooted in the understanding that training transfer doesn’t happen in isolation – it is a carefully orchestrated process influenced by five critical drivers within an organization:</p>
-                                <ol>
-                                    <li>
-                                        <h4>The Employee</h4>
-                                        Success begins with the individual. ITTEC 2025 delves into strategies to ensure employees are not just present in training but genuinely ready, motivated, and equipped to apply their learning. The conference will explore the science of learner readiness, sustained engagement, and how to ignite intrinsic motivation for long-term results.
-                                    </li>
-                                    <li>
-                                        <h4>The Process</h4>
-                                        Learning transfer thrives when organizational systems align with training objectives. At ITTEC 2025, you will uncover how to optimize workflows, procedures, and systems to eliminate friction and enable seamless performance. From automation to process redesign, discover how the right alignment accelerates training Return on Expectation (ROE) and Return on Investment (ROI).
-                                    </li>
-                                    <li>
-                                        <h4>The Line Manager</h4>
-                                        Managers are the linchpins of learning transfer, yet their role is often overlooked. ITTEC 2025 provides a deep dive into empowering line managers to create an environment that fosters accountability, supports application, and encourages continuous improvement. Learn how to build managers into champions of training success.
-                                    </li>
-                                    <li>
-                                        <h4>The Workplace</h4>
-                                        A supportive work environment is the ultimate enabler of learning transfer. ITTEC 2025 will highlight how to cultivate a culture that embraces change, provides the tools and resources employees need, and removes barriers to application. From leveraging technology to creating psychological safety, learn how to future-proof your workplace for training success.
-                                    </li>
-                                    <li>
-                                        <h4>The Trainer (In-house or External)</h4>
-                                        Beyond delivering content, trainers must design learning experiences that bridge the gap between knowledge and real-world application. This means crafting training that is engaging, context-driven, and aligned with workplace realities—ensuring that what is taught doesn’t just stay in the classroom but translates into measurable performance improvement.
-                                    </li>
-                                </ol>
+                        <!-- Why attend -->
+                        <div class="row mt-5">
+                            <div class="col-sm-12">
+                                <div class="lgx-about-content-area">
+                                    <div class="lgx-heading">
+                                        <h2 class="heading">Why Does Training Scrap™ Matter?</h2>
+                                        <h3 class="subheading">When training fails to stick, the ripple effects are undeniable!</h3>
+                                    </div>
+                                    <div class="lgx-about-content">
+                                        <p class="text">
+
+                                            For business, L&D, and HR leaders, Training Scrap™ is not just a financial problem—it is a performance problem. It is the reason why employees attend workshops yet fail to demonstrate measurable improvement. It is why your carefully crafted L&D strategy might look good on paper but struggles to yield the ROI and ROE you need.
+                                            But it is more than just numbers. Training Scrap™ represents lost opportunities:
+                                            The opportunity for your employees to reach their full potential.
+                                            The opportunity to create a workforce that is engaged, equipped, and future-ready.
+                                            The opportunity for your organization to stay ahead in an ever-evolving business landscape.
+                                            When training fails to stick, the ripple effects are undeniable—reduced productivity, unmet goals, disengaged employees, and stagnating business growth.
+                                        </p>
+                                    </div>
+
+                                </div>
                             </div>
                         </div>
 
                         <!-- About CTA -->
                         <div class="row mt-5">
-                            <div class="col-sm-12 col-md-7">
+                            <div class="col-sm-12">
                                 <div class="lgx-about-content-area">
                                     <div class="lgx-heading">
-                                        <h2 class="heading"> The future of training effectiveness is here, and it starts with ITTEC 2025.</h2>
-                                        <h3 class="subheading">It's Not just a conference.</h3>
+                                        <h2 class="heading"> The Costs of Training Scrap™</h2>
+                                        <h3 class="subheading">Training transfer effectiveness ITTEC 2025</h3>
                                     </div>
                                     <div class="lgx-about-content">
                                         <p class="text">
-                                            It is a wake-up call. It is a chance for forward-thinking leaders to redefine how training can become a strategic lever for business growth, profitability, and long-term success.
-                                            Discover actionable insights, innovative strategies, and proven frameworks that directly answer the pressing question: How can training reliably impact the bottom line?
+                                            Did you know that studies estimate 60–90% of training investments are lost due to Training Scrap™? Imagine spending eight million dollars on employee development and yet see no yield or tangible value. This isn’t just wasteful— it is unsustainable in today’s competitive environment.
                                         </p>
                                     </div>
-                                    <div class="about-date-area">
-                                        <h4 class="date"><span>13</span></h4>
-                                        <p><span>November 2025</span>Oriental Hotel Victoria Island Lagos Nigeria.</p>
-                                    </div>
-                                    <div class="section-btn-area text-start">
-                                        <a class="lgx-btn lgx-btn-red lgx-scroll " href="registration.php"><span>Save your seat at ITTEC 2025 </span></a>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-sm-12 col-md-5">
-                                <div class="lgx-about-img">
-                                    <img src="assets/img/about-sp2.jpg" alt="about">
-                                </div>
-                            </div>
 
+                                </div>
+                            </div>
+                        </div>
+                        <!-- About CTA -->
+                        <div class="row mt-5">
+                            <div class="col-sm-12">
+                                <div class="lgx-about-content-area">
+                                    <div class="lgx-heading">
+                                        <h2 class="heading">The Solution: Bridging the Gap</h2>
+                                        <h3 class="subheading">Bridge the gap between training and application</h3>
+                                    </div>
+                                    <div class="lgx-about-content">
+                                        <p class="text">
+
+                                            At ITTEC 2025, we are not just talking about the problem; we are solving it.
+                                            By uncovering the root causes of Training Scrap™ and providing actionable frameworks, tools, and strategies, we are empowering organizations to bridge the gap between training and application.
+                                            Through evidence-based solutions like Dr. Ina Weinbauer-Heidel’s 12 Levers of Transfer Effectiveness, The PDP Training Transfer Effectiveness Model – PDP Model for short by our CEO Sandra Ihenacho, and cutting-edge technologies, we are equipping leaders to turn every training initiative into a high-impact performance accelerator.
+
+                                            <br><br>
+
+                                            ITTEC 2025 is your chance to lead the change in transforming training investments into measurable, sustainable results.
+                                        </p>
+                                    </div>
+
+                                </div>
+                            </div>
                         </div>
 
 
@@ -126,6 +126,30 @@
             </div>
         </section>
         <!--ABOUT END-->
+
+        <!--REGISTRATION-->
+        <section>
+            <div class="lgx-registration-simple">
+                <div class="lgx-inner">
+                    <div class="container">
+                        <div class="row">
+                            <div class="col-xs-12">
+                                <div class="lgx-registration-area-simple">
+                                    <div class="lgx-heading lgx-heading-white">
+                                        <h2 class="heading">Don’t miss ITTEC 2025
+                                        </h2>
+                                        <h3 class="subheading">Ready to redefine how your organization does training?
+                                        </h3>
+                                    </div>
+                                    <a class="lgx-btn lgx-btn-red" href="registration.php">Save your Seat at ITTEC 2025</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div><!-- //.CONTAINER -->
+                </div><!-- //.INNER -->
+            </div>
+        </section>
+        <!--REGISTRATION END-->
 
         <!--TESTIMONIALS -->
         <section>

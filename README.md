@@ -7,8 +7,6 @@ your-project/
 │   ├── header.php
 │   ├── footer.php
 │   └── settings.php
-├── index.php
-└── other-pages.php
 ```
 
 ## How to Include Header
@@ -24,7 +22,6 @@ your-project/
 
 ```php
 <?php
-
 // Then include the header
 include 'includes/header.php';
 ?>

@@ -1,0 +1,33 @@
+.mx-auto{
+    margin: 10px auto;
+}
+.justify-center{
+    justify-content: center;
+}
+.flex{
+    display: flex;
+}
+.h3{
+    margin: 0px;
+}
+.mt-5{
+    margin-top: 40px;
+}
+.attend>li{
+    margin-bottom: 12px;
+}
+@media screen and (min-width:1200px){
+    .text-start{
+        text-align: start;
+    }
+
+    .mt-5{
+    margin-top: 100px;
+}
+.ps-4{
+    padding-left: 32px;
+}
+ol{
+    padding-left: 20px;
+}
+}

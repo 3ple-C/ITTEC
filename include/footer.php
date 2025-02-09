@@ -20,31 +20,29 @@
             <div class="container">
                 <div class="lgx-footer-area">
                     <div class="lgx-footer-single">
-                        <a class="logo" href="index.html"><img src="assets/img/footer-logo.png" alt="Logo"></a>
+                        <a class="logo" href="index.html"><img src="assets/img/logo-white.png" alt="Logo"></a>
                     </div> <!--//footer-area-->
                     <div class="lgx-footer-single">
                         <h3 class="footer-title">Venue Location </h3>
                         <h4 class="date">
-                            18 - 21 December, 2021
+                            13 - 14 November, 2025
                         </h4>
                         <address>
-                            85 Golden Street, Darlinghurst <br>
-                            ERP 2021, United States
+                            Oriental Hotel Victoria <br>
+                            Island Lagos, Nigeria.
                         </address>
                         <a id="myModalLabel2" data-toggle="modal" data-target="#lgx-modal-map" class="map-link" href="#"><i class="fa fa-map-marker" aria-hidden="true"></i> View Map location</a>
                     </div>
                     <div class="lgx-footer-single">
                         <h3 class="footer-title">Social Connection</h3>
                         <p class="text">
-                            You should connect social area <br> for Any update
+                            Connect with us on our social <br> media platform
                         </p>
                         <ul class="list-inline lgx-social-footer">
                             <li><a href="#"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
                             <li><a href="#"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
                             <li><a href="#"><i class="fa fa-instagram" aria-hidden="true"></i></a></li>
                             <li><a href="#"><i class="fa fa-vimeo" aria-hidden="true"></i></a></li>
-                            <li><a href="#"><i class="fa fa-behance" aria-hidden="true"></i></a></li>
-                            <li><a href="#"><i class="fa fa-dribbble" aria-hidden="true"></i></a></li>
                         </ul>
                     </div>
                     <!--<div class="lgx-footer-single">
@@ -69,7 +67,7 @@
 
                 <div class="lgx-footer-bottom">
                     <div class="lgx-copyright">
-                        <p> <span>©</span> 2020 Emeet is powered by <a href="http://www.themearth.com/">themearth.</a> The property of their owners.</p>
+                        <p>Copyright<span>©</span> 2025 <a href="<?= siteLink ?>">ITTEC.</a> All rights reserved.</p>
                     </div>
                 </div>
 

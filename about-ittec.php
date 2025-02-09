@@ -34,58 +34,100 @@
                         <div class="row">
                             <div class="col-sm-12 col-md-5">
                                 <div class="lgx-about-img">
-                                    <img src="assets/img/about-sp3.png" alt="about">
+                                    <img src="assets/img/about-sp2.jpg" alt="about">
                                 </div>
                             </div>
                             <div class="col-sm-12 col-md-7">
                                 <div class="lgx-about-content-area">
                                     <div class="lgx-heading">
-                                        <h2 class="heading">About ITTEC</h2>
-                                        <h3 class="subheading">A bold call to action for leaders who are tired of seeing training dollars go to waste.</h3>
+                                        <h2 class="heading">What to Expect at <br> ITTEC 2025</h2>
+                                        <h3 class="subheading">The beginning of the end of Training Scraps<sup>TM</sup></h3>
                                     </div>
                                     <div class="lgx-about-content">
                                         <p class="text">
-                                            At its very heart, the International Training Transfer Effectiveness Conference (ITTEC) 2025 is the definitive response to a question that every visionary business, L&D, and HR leader has grappled with:
-                                            Why doesn’t training consistently improve the bottom line?
+                                            It is the beginning of a movement toward smarter training that delivers stronger business performance.
+                                            The time has come to redefine how your organization approach training and development.
+                                            Here is what awaits you at ITTEC 2025:
                                         </p>
-                                        <p class="text">
-                                            Every year, organizations invest millions in training initiatives, fueled by the belief that upskilling employees will naturally translate into measurable results. Yet, time and again, leaders are left asking why performance gaps persist, why productivity gains fall short, and why their teams are still not reaching their full potential.
-                                            The answer lies in a critical yet often overlooked factor: training transfer.
-                                            It is not enough for employees to attend workshops or complete online modules; the true value of training is realized only when the knowledge and skills acquired are effectively applied to drive business outcomes.
-                                            It is a movement to bridge the gap between learning and performance by addressing the systemic barriers that hinder training transfer – barriers that affect not just individual employees but entire organizations.
-                                        </p>
+                                        <ul>
+                                            <li>
+                                                <h4>Groundbreaking Insights:</h4>
+                                                Learn from global thought leaders, industry experts, and innovators as they share cutting-edge strategies to bridge the gap between training and results.
+                                            </li>
+                                            <li>
+                                                <h4> Dynamic Panels & Keynotes: </h4>
+                                                Engage in thought-provoking discussions that challenge conventional practices and introduce actionable solutions for ROI and ROE-driven training.
+                                            </li>
+                                            <li>
+                                                <h4>Interactive Workshops: </h4>
+                                                Participate in hands-on sessions designed to equip you with tools, frameworks, and methodologies to elevate your training effectiveness.
+                                            </li>
+                                        </ul>
                                     </div>
                                 </div>
                             </div>
+                            <div class="col-xs-12">
+                                <ul>
+                                    <li>
+                                        <h4>Networking Opportunities: </h4>
+                                        Connect with leaders, practitioners, and researchers from diverse industries, forging meaningful relationships to spark collaboration and innovation.
+                                    </li>
+                                    <li>
+                                        <h4>Real-World Case Studies:</h4>
+                                        Discover how leading organizations have achieved measurable success by transforming their training programmes into powerful drivers of performance.
+                                        At ITTEC 2025, you will leave inspired, equipped, and ready to drive an impactful change in your organization’s training initiatives.
+                                    </li>
+                                </ul>
+                            </div>
                         </div>
 
-                        <!-- Difference -->
+                        <!-- Why attend -->
                         <div class="row mt-5 flex justify-center">
-                            <div class="col-md-12 col-lg-10 mx-auto">
-                                <h3 class="text-center .h3">What makes ITTEC different?</h3>
-                                <p>ITTEC is rooted in the understanding that training transfer doesn’t happen in isolation – it is a carefully orchestrated process influenced by five critical drivers within an organization:</p>
-                                <ol>
-                                    <li>
-                                        <h4>The Employee</h4>
-                                        Success begins with the individual. ITTEC 2025 delves into strategies to ensure employees are not just present in training but genuinely ready, motivated, and equipped to apply their learning. The conference will explore the science of learner readiness, sustained engagement, and how to ignite intrinsic motivation for long-term results.
-                                    </li>
-                                    <li>
-                                        <h4>The Process</h4>
-                                        Learning transfer thrives when organizational systems align with training objectives. At ITTEC 2025, you will uncover how to optimize workflows, procedures, and systems to eliminate friction and enable seamless performance. From automation to process redesign, discover how the right alignment accelerates training Return on Expectation (ROE) and Return on Investment (ROI).
-                                    </li>
-                                    <li>
-                                        <h4>The Line Manager</h4>
-                                        Managers are the linchpins of learning transfer, yet their role is often overlooked. ITTEC 2025 provides a deep dive into empowering line managers to create an environment that fosters accountability, supports application, and encourages continuous improvement. Learn how to build managers into champions of training success.
-                                    </li>
-                                    <li>
-                                        <h4>The Workplace</h4>
-                                        A supportive work environment is the ultimate enabler of learning transfer. ITTEC 2025 will highlight how to cultivate a culture that embraces change, provides the tools and resources employees need, and removes barriers to application. From leveraging technology to creating psychological safety, learn how to future-proof your workplace for training success.
-                                    </li>
-                                    <li>
-                                        <h4>The Trainer (In-house or External)</h4>
-                                        Beyond delivering content, trainers must design learning experiences that bridge the gap between knowledge and real-world application. This means crafting training that is engaging, context-driven, and aligned with workplace realities—ensuring that what is taught doesn’t just stay in the classroom but translates into measurable performance improvement.
-                                    </li>
-                                </ol>
+                            <div class="col-sm-12 col-md-11 mx-auto ">
+                                <div class="lgx-about-content-area">
+                                    <div class="lgx-heading">
+                                        <h2 class="heading"> Why Attend ITTEC 2025?</h2>
+                                        <h3 class="subheading">Delivering actionable solutions that transform learning into measurable performance gains</h3>
+                                    </div>
+                                    <div class="lgx-about-content">
+                                        <p class="text">
+
+                                            Training without effective transfer is wasted effort – a reality that costs your organization, just as it costs businesses around the world billions of dollars annually.
+                                            ITTEC 2025 goes beyond identifying the problem to delivering actionable solutions that transform learning into measurable performance gains.
+                                        </p>
+                                        <h3>Key Focus Areas at ITTEC 2025:</h3>
+                                        <ul>
+                                            <li>
+                                                <h4>The PDP Transfer Effectiveness Framework:</h4>
+                                                Our structured model guides you through every stage of training – pre, during, and post-training – ensuring maximum transfer and impact at every step.
+                                            </li>
+                                            <li>
+                                                <h4> Aligning Training with Organizational Goals:</h4>
+                                                Learn how to craft training programs that are not just relevant but directly tied to your business objectives, ensuring every learning initiative drives your strategic goals forward.
+                                            </li>
+                                            <li>
+                                                <h4>Dr. Ina Weinbauer-Heidel’s 12 Levers of Transfer Effectiveness:</h4>
+                                                Unlock the science behind sustainable learning with Dr. Weinbauer-Heidel’s groundbreaking model, and discover how to make learning stick – for the long term.
+                                            </li>
+                                            <li>
+                                                <h4>Engaging Line Managers:</h4> Discover how to transform line managers into catalysts for training transfer effectiveness, ensuring they support and drive learning application, reinforcing performance improvement.
+                                            </li>
+                                            <li>
+                                                <h4>Culture and Process Influence:</h4>
+                                                Dive into how your organizational values, systems, and processes directly shape and influence employee performance, and learn how to leverage them for better results.
+                                            </li>
+                                            <li>
+                                                <h4>Demonstrating ROI and ROE: </h4>
+                                                Learn how to use proven models like Kirkpatrick to effectively measure and demonstrate the tangible ROI and ROE of your training investments.
+                                            </li>
+                                            <li>
+                                                <h4>Integrating Technology and AI:</h4>
+                                                Stay ahead of the curve by leveraging cutting-edge tools and AI-driven insights to amplify training effectiveness and accelerate organizational performance.
+                                            </li>
+                                        </ul>
+                                    </div>
+
+                                </div>
                             </div>
                         </div>
 
@@ -94,30 +136,39 @@
                             <div class="col-sm-12 col-md-7">
                                 <div class="lgx-about-content-area">
                                     <div class="lgx-heading">
-                                        <h2 class="heading"> The future of training effectiveness is here, and it starts with ITTEC 2025.</h2>
-                                        <h3 class="subheading">It's Not just a conference.</h3>
+                                        <h2 class="heading"> Who Should Attend ITTEC 2025?</h2>
+                                        <h3 class="subheading">Training transfer doesn’t happen in isolation</h3>
                                     </div>
                                     <div class="lgx-about-content">
-                                        <p class="text">
-                                            It is a wake-up call. It is a chance for forward-thinking leaders to redefine how training can become a strategic lever for business growth, profitability, and long-term success.
-                                            Discover actionable insights, innovative strategies, and proven frameworks that directly answer the pressing question: How can training reliably impact the bottom line?
-                                        </p>
+                                        <ul class="attend">
+                                            <li>
+                                                CEOs
+                                            </li>
+                                            <li>
+                                                HR Leaders and L&D Professionals
+                                            </li>
+                                            <li>
+                                                Training Managers and Consultants
+                                            </li>
+                                            <li>
+                                                Business Leaders focused on employee development and performance growth
+                                            </li>
+                                            <li>
+                                                Line Managers and Supervisors responsible for team performance
+                                            </li>
+                                            <li>
+                                                Organizational Development Specialists seeking cutting-edge learning transfer solutions
+                                            </li>
+                                        </ul>
                                     </div>
-                                    <div class="about-date-area">
-                                        <h4 class="date"><span>13</span></h4>
-                                        <p><span>November 2025</span>Oriental Hotel Victoria Island Lagos Nigeria.</p>
-                                    </div>
-                                    <div class="section-btn-area text-start">
-                                        <a class="lgx-btn lgx-btn-red lgx-scroll " href="registration.php"><span>Save your seat at ITTEC 2025 </span></a>
-                                    </div>
+
                                 </div>
                             </div>
                             <div class="col-sm-12 col-md-5">
                                 <div class="lgx-about-img">
-                                    <img src="assets/img/about-sp2.jpg" alt="about">
+                                    <img src="assets/img/about-sp.jpg" alt="about">
                                 </div>
                             </div>
-
                         </div>
 
 
@@ -126,6 +177,31 @@
             </div>
         </section>
         <!--ABOUT END-->
+
+        <!--REGISTRATION-->
+        <section>
+            <div class="lgx-registration-simple">
+                <div class="lgx-inner">
+                    <div class="container">
+                        <div class="row">
+                            <div class="col-xs-12">
+                                <div class="lgx-registration-area-simple">
+                                    <div class="lgx-heading lgx-heading-white">
+                                        <h2 class="heading">Join the Movement
+                                        </h2>
+                                        <h3 class="subheading">ITTEC 2025 isn’t just a conference –it is a movement for business and HR leaders who are ready to stop wasting resources and start seeing real, measurable impact from their training investments. Ready to unlock the true potential of training, and discover how you can drive performance and transform your organization.
+
+                                        </h3>
+                                    </div>
+                                    <a class="lgx-btn lgx-btn-red" href="registration.php">Save your Seat at ITTEC 2025</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div><!-- //.CONTAINER -->
+                </div><!-- //.INNER -->
+            </div>
+        </section>
+        <!--REGISTRATION END-->
 
         <!--TESTIMONIALS -->
         <section>
